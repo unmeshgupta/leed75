@@ -1,9 +1,9 @@
 # leed75
 List of 75 Leetcode questions 
 
-Problem	Difficulty	Duration
-Two Sum	Easy	15
-Valid Parentheses	Easy	20
+##Problem	Difficulty	Duration
+##Two Sum	Easy	15
+##Valid Parentheses	Easy	20
 Merge Two Sorted Lists	Easy	20
 Best Time to Buy and Sell Stock	Easy	20
 Valid Palindrome	Easy	15
